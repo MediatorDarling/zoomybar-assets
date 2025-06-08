@@ -1,9 +1,62 @@
-"Harmonize everything!"
-"The cosmos is out of tune. Fix it.", "Listen to the cosmic hum.",
-            "Resonance is key.", "Stabilize the stream.", "The Echoes are listening.",
-            "A perfect conduit awaits.", "Dissonance detected!", "Go for Resonance!",
-            "Crystallize more energy!", "Probe enhancements available.", GAME_VERSION + "!",
-            "So many frequencies...", "That was a close one, Harmonizer.",
-            "Trust your attunement.", "Is your probe calibrated?", "Another conduit, another challenge.",
-            "The void sings your praises.", "Thanks for testing Kitty", "Thanks for testing Truckie", "Thanks for testing Eshray", "Beware the Corrupted Conduits!",
-            "Banish the Dissonant Echoes!"
+Resonate with the cosmos.
+Find the perfect frequency.
+Dissonance is not an option.
+Calibrating the harmonizer...
+The void is calling.
+Another conduit, another challenge.
+Energy signature detected.
+Probe thrusters engaged.
+Don't cross the streams! ...or do?
+Listen to the cosmic hum.
+Echoes in the dark.
+Shatter the dissonance!
+A perfect resonance is music to the universe.
+The deeper you go, the faster it gets.
+Transcendence is the goal.
+Crystallize that energy!
+Is your probe street legal?
+Warning: Corrupted data stream ahead.
+Warp drive active!
+Fading signals require focus.
+Moving targets sighted!
+Harmonize. Reset. Repeat.
+The Shards hold true power.
+Prestige is everything.
+You got this!
+Focus and win.
+One more round!
+Practice makes perfect.
+Don't give up!
+Your skills are improving!
+Believe in the heart of the probe.
+Every miss is a lesson.
+You're a star!
+Keep calm and resonate.
+The rhythm is in you.
+Become one with the bar.
+Now with 100% more splash text!
+Press Space to win!
+May contain nuts.
+If you see this, the game has loaded.
+Don't tell my boss I'm playing this.
+Powered by caffeine and questionable life choices.
+It's not a bug, it's a feature!
+Remember to blink.
+Are we there yet?
+I'm a splash text, not a doctor.
+404: Joke not found.
+My other car is a progress bar.
+Don't forget to hydrate!
+What if the probe is actually standing still?
+The universe is made of tiny, vibrating strings. Or bars.
+Is this the real life?
+Look behind you!
+Tested on by squirels
+Engage!
+Maximum resonance achieved!
+That was a close one!
+The Echoes are getting stronger.
+Have you tried turning it off and on again?
+Do not lick the screen.
+Do lick the screen.
+If at first you don't succeed, buy more upgrades.

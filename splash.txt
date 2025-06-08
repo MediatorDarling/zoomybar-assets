@@ -1,0 +1,9 @@
+"Harmonize everything!"
+"The cosmos is out of tune. Fix it.", "Listen to the cosmic hum.",
+            "Resonance is key.", "Stabilize the stream.", "The Echoes are listening.",
+            "A perfect conduit awaits.", "Dissonance detected!", "Go for Resonance!",
+            "Crystallize more energy!", "Probe enhancements available.", GAME_VERSION + "!",
+            "So many frequencies...", "That was a close one, Harmonizer.",
+            "Trust your attunement.", "Is your probe calibrated?", "Another conduit, another challenge.",
+            "The void sings your praises.", "Thanks for testing Kitty", "Thanks for testing Truckie", "Thanks for testing Eshray", "Beware the Corrupted Conduits!",
+            "Banish the Dissonant Echoes!"
